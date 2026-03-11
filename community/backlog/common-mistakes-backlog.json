@@ -132,8 +132,10 @@
     "correct": "宿題を忘れないように、メモします。",
     "explanation": "Use ように for purpose/prevention. (Pattern set 1)",
     "id": 17,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8093
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
